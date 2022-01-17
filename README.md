@@ -1,2 +1,2 @@
-# dadJokes-chromeExtension
-This is a google chrome extension which gives a gives a different jokes popup every time.
+# dad-jokes-extension
+This is a web browser extension which gives a different joke popup every time.
